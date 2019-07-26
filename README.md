@@ -1,12 +1,12 @@
 # BuildingNYC
+
+![Add image](https://raw.githubusercontent.com/kkkddder/BuildingNYC/master/Images_ReadMe/TitleShot.png)
+
 Hurricane Sandy hit the Staten Island neighborhood of Oakwood Beach particularly hard, battering the shore-side homes and taking the lives of 43 residents. It was a neighborhood plagued with flooding and planning problems for decades, where poor planning finally led to devastating results. 
 
 How did the neighborhood try to rebuild? Our website, called "Razing New York", tells a story of transformation. While other parts of New York were assigned to a city-run rebuilding program, Oakwood Beach was offered a buy out plan as part of a wetlands reseeding program run by the state under Governor Cuomo. When and which homes were demolished, what areas were most effected, and what was the impact of location and lot values? "Razing New York" offers many interactive features, embedded in a larger narrative context, that reveal hidden patterns in what happened to Oakwood.
 
-![Add image](https://raw.githubusercontent.com/kkkddder/BuildingNYC/master/Images_ReadMe/TitleShot.png)
-
 For the survivors of Sandy, Oakwood is a success story where the state finally stepped in with a buy out plan that the majority of residents were thrilled to receive, though it left some steadfast owners isolated in a transformed landscape.  
-
 
 PROCESS 
 
