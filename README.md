@@ -6,7 +6,7 @@ Hurricane Sandy hit the Staten Island neighborhood of Oakwood Beach particularly
 
 How did the neighborhood try to rebuild? Our website, called "Razing New York," recounts a story of transformation. While other parts of New York were assigned to a city-run rebuilding program beset with problems, Oakwood Beach was offered a buy out plan as part of a wetlands reseeding program run by the state under Governor Cuomo. When and which homes were demolished, what areas were most affected, and what was the impact of location and lot values? "Razing New York" offers many interactive features, embedded in a larger narrative context, that reveal hidden patterns in the seachange that has since occurred in that neighborhood.
 
-For the survivors of Sandy, Oakwood is a dramatic success story where the state finally stepped in with a plan that the majority of residents were thrilled to receive, though it left some steadfast owners who refused buy outs isolated in a transformed landscape.  
+For the survivors of Sandy, Oakwood represents a dramatic success story where the state finally stepped in with a plan that the majority of residents were thrilled to receive, though it left some steadfast owners who refused buy outs isolated in a transformed landscape.  
 
 PROCESS 
 
